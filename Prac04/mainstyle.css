@@ -1,0 +1,22 @@
+@charset "utf-8";
+h1 {
+	font-style: italic;
+}
+body {
+	color: #C82CD7;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: xx-large;
+}
+#main {
+	border: thick dashed #010101;
+}
+header {
+	border: thin solid #000000;
+}
+a:hover {
+	color: #E02A68;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: italic;
+}
